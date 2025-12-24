@@ -1,0 +1,13 @@
+Dear Selection Committee,
+
+I am pleased to write this recommendation letter for Muzaffar Eyvazov, who is applying to your prestigious graduate program. I was his instructor in the "Cloud Technologies" course this fall semester at Azerbaijan State University of Economics, where I serve as a Professor in the Department of Information and Communication Technologies.
+
+One of the distinguishing characteristics of Muzaffar, in comparison with the other students in the class, was that he was already familiar with the practical side of the subject. I noticed this about him when we reached the classes on AWS, in which he shared his direct, first-hand experiences during our discussions in seminar classes. I also remember him giving a presentation about how students can use those services at no cost to develop applications and ideas for real-world use, which I believe contributed great value to the class, especially to his classmates. His hands-on experience was apparent in our class discussions. When we examined cloud providers, their business models, and ethical considerations, he offered thoughtful insights from his knowledge and practice.
+
+But one thing I noticed is that he generally tends to focus much more on the practical side and does not give enough attention to the theoretical part, which I believe is a necessary quality for an engineer that he probably wants to be like. For example, one time he was presenting a project he had done, a private and personal VPN server he set up, and although he perfectly executed every step and got a real, working server, he struggled a bit when it came to answering some deep theoretical questions regarding the topic. We had quite a productive discussion regarding this tendency with him, and I was quite satisfied that he happily received the feedback and tried to mitigate this.
+
+Muzaffar possesses genuine curiosity, which clearly shows itself in his approach to problems. I recall him as a student who was asking deep and insightful questions during our lectures and seminars, and thinking about the practical implications of what we were discussing. He's one of two or three students in his class who really understand both the technical side and the practical deployment considerations.
+
+I believe Muzaffar is well-prepared for your graduate program. Cloud computing is essential for training ML models and deploying applications at scale, and he already has solid practical experience with these systems. He will be able to focus on the research and modelling work rather than struggling with core infrastructure.
+
+I recommend him with full and strong confidence.
