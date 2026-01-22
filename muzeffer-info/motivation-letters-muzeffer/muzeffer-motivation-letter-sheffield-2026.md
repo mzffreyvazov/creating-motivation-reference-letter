@@ -1,3 +1,11 @@
+---
+university: University of Sheffield
+program: MSc Data Science
+program_deadline: TBD
+application_status: preparing
+writing_status: draft
+---
+
 # Motivation Letter - University of Sheffield MSc Data Science
 
 I am a final-year Computer Science student at Azerbaijan State University of Economics, expected to graduate in 2026. Throughout my studies, I have built a strong foundation in software engineering, programming, data structures and algorithms, and database management. These experiences gave me solid technical grounding, but it was my exposure to data science that truly shaped my academic and career direction.
