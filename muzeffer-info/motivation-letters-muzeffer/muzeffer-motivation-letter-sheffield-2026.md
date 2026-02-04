@@ -2,8 +2,8 @@
 university: University of Sheffield
 program: MSc Data Science
 program_deadline: TBD
-application_status: preparing
-writing_status: draft
+application_status: won
+writing_status: completed
 ---
 
 # Motivation Letter - University of Sheffield MSc Data Science
