@@ -1,3 +1,9 @@
+---
+program: DAAD
+application_status: submitted
+writing_status: completed
+---
+
 # Motivation Letter from Muzaffar Eyvazov
 
 **October 31, 2025**

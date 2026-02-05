@@ -1,8 +1,7 @@
 ---
 university: Sapienza University of Rome
 program: MSc Data Science
-program_deadline: May 15, 2026 (non-EU visa required)
-application_status: in_progress
+application_status: submitted
 writing_status: completed
 ---
 

@@ -1,6 +1,5 @@
 ---
 program: Erasmus Mundus Joint Master Degree in Brain and Data Science (NeuroData)
-program_deadline: February 5, 2026
 application_status: submitted
 writing_status: completed
 ---

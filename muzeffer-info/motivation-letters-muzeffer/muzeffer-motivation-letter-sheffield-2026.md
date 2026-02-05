@@ -1,8 +1,7 @@
 ---
 university: University of Sheffield
 program: MSc Data Science
-program_deadline: TBD
-application_status: won
+application_status: accepted
 writing_status: completed
 ---
 
