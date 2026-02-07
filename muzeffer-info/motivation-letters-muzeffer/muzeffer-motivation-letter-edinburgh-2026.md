@@ -15,3 +15,19 @@ What draws me most is the opportunity to pursue independent research within a wo
 Whether I continue into research or industry, my goal is the same: advancing AI capabilities for Azerbaijan and underrepresented language communities. Azerbaijan's AI Strategy 2025–2028 has created demand for professionals who can develop foundational AI tools, not merely deploy existing ones. I aim to lead the development of open-source NLP infrastructure, including embedding models, retrieval systems, and language tools, free from dependence on proprietary foreign platforms. The MSc at Edinburgh would give me the rigorous foundation to make that contribution meaningful.
 
 Muzaffar Eyvazov
+
+---
+
+# Relevant Knowledge/Training Skills
+
+I am currently in my final year of a BSc in Computer Science at Azerbaijan State University of Economics (UNEC), with an expected graduation date of July 2026. My degree covers programming, data structures and algorithms, database management, software engineering, and numerical methods.
+
+Beyond my degree, I completed two structured programs that directly prepared me for postgraduate study in AI. The first was an Advanced Computer Science Program by IDDA and Constructor University Germany, which deepened my understanding of algorithms and computational thinking. The second was a Data Science Program by IDDA, StrategEast, and Sigma Software University, where I was recognised as a Top 11 performer. Following this, I earned the Oracle Cloud Infrastructure Data Science Professional certification, which covered machine learning workflows, model deployment, and cloud-based data infrastructure. I have also completed the Amazon Junior Software Developer Professional Certificate and several other relevant courses through Coursera, which strengthened my foundations in software development practices.
+
+My programming experience spans Python, Java, and JavaScript. In Python, I work with Scikit-learn, Pandas, NumPy, and SciPy for data analysis and machine learning, and Matplotlib and Seaborn for visualisation. I have applied supervised learning methods including linear regression, polynomial regression, Ridge, Lasso, ElasticNet, Random Forest, and KNN, as well as techniques such as KNN imputation, feature engineering, and exploratory data analysis.
+
+I have practical experience with large language models and generative AI. During my internship at 4SİM, I built a RAG-based legal chatbot using Python, FastAPI, and Next.js, handling document processing, embedding generation, and full-stack deployment on DigitalOcean. I also built an AI-powered IELTS Writing Evaluator by fine-tuning Google's Gemini model on GCP Vertex AI, writing a data preparation pipeline and evaluation workflow in Google Colab. Additionally, I developed an automated PDF dashboard generator from CSV data and an AI-powered presentation slide generator.
+
+On the software engineering side, I have built applications with Spring Boot and Hibernate in Java, and with Next.js, React, and Node.js in JavaScript. I use PostgreSQL and MySQL for databases, Git and GitHub for version control, and have deployed applications on GCP, AWS, OCI, and DigitalOcean. I am also familiar with RESTful API design, object-oriented programming, and cloud infrastructure management.
+
+Muzaffar Eyvazov
