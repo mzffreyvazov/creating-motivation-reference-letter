@@ -1,6 +1,6 @@
 ---
 program: MSc Data Science and Analytics - University of Leeds
-application_status: draft
+application_status: accepted
 writing_status: completed
 ---
 
