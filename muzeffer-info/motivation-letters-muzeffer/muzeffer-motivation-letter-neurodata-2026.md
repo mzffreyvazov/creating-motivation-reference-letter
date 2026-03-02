@@ -1,6 +1,6 @@
 ---
 program: Erasmus Mundus Joint Master Degree in Brain and Data Science (NeuroData)
-application_status: submitted
+application_status: rejected
 writing_status: completed
 ---
 
