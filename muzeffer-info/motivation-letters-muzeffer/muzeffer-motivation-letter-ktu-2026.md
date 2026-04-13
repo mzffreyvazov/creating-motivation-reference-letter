@@ -1,0 +1,19 @@
+---
+program: Artificial Intelligence in Computer Science, Kaunas University of Technology
+application_status: submitted
+writing_status: completed
+---
+
+
+Dear Admissions Committee,
+
+I am a final-year Computer Science student at Azerbaijan State University of Economics, expected to graduate in July 2026. During my undergraduate studies, I was mainly focused on software engineering and building my own ideas. But the real introduction to Artificial Intelligence & Data Science for me was when I got interested and was selected for a Data Science Program organized by IDDA, StrategEast, and Sigma Software University. In that program, I worked rigorously with data science projects, machine learning and AI for the first time. And towards the end of the program I realized that the knowledge and the skillset I can gain in this field would be immensely valuable for me. I realized that a professional who can both engineer reliable systems and make them intelligent is well-positioned to solve problems that neither discipline handles alone. Thus, I came to the conclusion that, pursuing a Master's in Artificial Intelligence is the next step in building that combined expertise.
+
+During my university years, I joined several extracurricular programs to deepen my skills and knowledge. For example, I completed an Advanced Computer Science Program organized by IDDA in partnership with Constructor University Germany, which strengthened my algorithmic foundations. In the Data Science Program, I was recognized as a Top 11 performer and earned the Oracle Cloud Infrastructure Data Science Professional certification. During my internship at 4SİM, Azerbaijan's Centre for the Fourth Industrial Revolution, I built a RAG-based legal chatbot for e-qanun.az, the country's national legal platform, developed an automated PDF dashboard generator from raw CSV data, and created an AI-powered presentation slide tool. Each project required both software engineering and AI skills working together, which reinforced my conviction that this is the direction I want to pursue at a deeper level. 
+
+KTU's MSc in Artificial Intelligence in Computer Science fits exactly what I am looking for. The mandatory core modules in Explainable AI and Generative AI show that the program engages with current developments in the field. The three consecutive Research Projects running through Semesters 1 to 3, followed by the Applied Research elective in Semester 3, mean that research is embedded throughout the program. Access to the AI Excellence Centre and its HPC infrastructure is also important to me, as computationally intensive work requires proper resources. I am also drawn to KTU's culture of practitioner lecturers, professionals who bring active industry experience into the classroom. Learning from people who are working on real problems will complement the theoretical side of the program well. KTU's startup ecosystem is another crucial factor me. I am someone who constantly has new ideas to develope/implement, and working around entrepreneurially minded, skilled people is an environment I find immensely valuable and productive. Another important factor to me is that Kaunas has a large international student community, which matters to me personally as an international student.
+
+After graduation, I plan to return to Azerbaijan and contribute to the country's technology sector, which is growing under the national AI Strategy 2025-2028. There is real demand for professionals who can both design and deploy intelligent systems. The MSc at KTU would give me the research depth and technical foundations to do that work well.
+
+Sincerely, 
+Muzaffar Eyvazov
